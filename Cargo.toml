@@ -1,0 +1,43 @@
+[package]
+name = "rust-programming-language"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.10.3"
+
+[[bin]]
+name = "hello_world"
+path = "src/ch01/hello_world.rs"
+
+[[bin]]
+name = "guessing_game"
+path = "src/ch02/guessing_game.rs"
+
+[[bin]]
+name = "variables_and_mutability"
+path = "src/ch03/variables_and_mutability.rs"
+
+[[bin]]
+name = "data_types"
+path = "src/ch03/data_types.rs"
+
+[[bin]]
+name = "functions_work"
+path = "src/ch03/functions_work.rs"
+
+[[bin]]
+name = "control_flow"
+path = "src/ch03/control_flow.rs"
+
+[[bin]]
+name = "fibonacci"
+path = "src/ch03/fibonacci.rs"
+
+[[bin]]
+name = "ownership"
+path = "src/ch04/ownership.rs"
+
+[[bin]]
+name = "slice"
+path = "src/ch04/slice.rs"
