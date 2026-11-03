@@ -41,3 +41,35 @@ path = "src/ch04/ownership.rs"
 [[bin]]
 name = "slice"
 path = "src/ch04/slice.rs"
+
+[[bin]]
+name = "struct"
+path = "src/ch05/struct.rs"
+
+[[bin]]
+name = "rectangles"
+path = "src/ch05/rectangles.rs"
+
+[[bin]]
+name = "method"
+path = "src/ch05/method.rs"
+
+[[bin]]
+name = "enum"
+path = "src/ch06/enum.rs"
+
+[[bin]]
+name = "option"
+path = "src/ch06/option.rs"
+
+[[bin]]
+name = "match"
+path = "src/ch06/match.rs"
+
+[[bin]]
+name = "iflet"
+path = "src/ch06/iflet.rs"
+
+[[bin]]
+name = "module"
+path = "src/ch07/module.rs"
